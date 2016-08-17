@@ -1,3 +1,3 @@
 # Intro18
-Add a Navigation Controller 
-
+Using a Navigation Controller with Segue 
+Set up a table view that could drill down the data details.
